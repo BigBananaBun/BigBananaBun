@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Chasen S.
 <a href="www.linkedin.com/in/chasen-stephens-30951b347"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
