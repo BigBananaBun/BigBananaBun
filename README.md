@@ -1,14 +1,16 @@
-# Hello, I'm Chasen S.
-<a href="www.linkedin.com/in/chasen-stephens-30951b347"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Chasen Stephens
+<a href="https://www.linkedin.com/in/chasen-stephens-30951b347">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Cybersecurity graduate from Utah State University pursuing an entry-level SOC Analyst role. Network+ and Security+ certified, with hands-on experience in server troubleshooting and SOC simulations using TryHackMe and LetsDefend.io
+
+Cybersecurity graduate from Utah State University pursuing an entry-level SOC Analyst role. Network+ and Security+ certified, with hands-on experience in server troubleshooting and SOC simulations using TryHackMe and LetsDefend.io.
 
 ## Objective
 
-My time in the IT field has 
+My experience working in IT sparked a strong interest in cybersecurity and how systems are protected in real-world environments. Since then, I have been consistently developing new skills and deepening my knowledge of security tools, concepts, and defensive practices.
 
 ## Projects
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Summary                                         | Project         |
 |-----------------------------------------------|----------------------------|
