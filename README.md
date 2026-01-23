@@ -17,6 +17,13 @@ My experience working in IT sparked a strong interest in cybersecurity and how s
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/BigBananaBun/Microsoft-Sentinel-Lab">Azure & Sentinel Project</a>|
 | IDS and Splunk Implementation | <a href="https://github.com/BigBananaBun/Splunk-Snort-Home-Lab">Snort & Splunk Project</a>|
 
+## SOC Practice
+
+<a href="https://app.letsdefend.io/user/unbreakit">
+  <img src="https://img.shields.io/badge/-LetsDefend-0A84FF?&style=for-the-badge&logo=letsdefend&logoColor=white" />
+</a>
+
+
 
 ## Tools
 
