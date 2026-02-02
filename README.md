@@ -17,6 +17,7 @@ My experience working in IT sparked a strong interest in cybersecurity and how s
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/BigBananaBun/Microsoft-Sentinel-Lab">Azure & Sentinel Project</a>|
 | IDS and Splunk Implementation | <a href="https://github.com/BigBananaBun/Splunk-Snort-Home-Lab">Snort & Splunk Project</a>|
 | EDR and SOAR Implementation | <a href="https://github.com/unbreakit/EDR-SOAR-Project">EDR & SOAR Project</a>|
+| Active Directory Implementation | <a href="https://github.com/unbreakit/Active-Directory-Project">Active Directory Project</a>|
 
 ## SOC Practice
 
